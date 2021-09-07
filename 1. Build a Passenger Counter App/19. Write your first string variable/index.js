@@ -1,4 +1,7 @@
-let username = 'per"
+let username = "per"
+let message = "You have three notifications"
 
-console.log(username)
+let messageToUser = message + ", " + username + "!"
+
+console.log(messageToUser)
 

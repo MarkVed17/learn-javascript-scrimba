@@ -12,5 +12,7 @@ let messages = [
 // console.log(messages[2])
 // console.log(messages[3])
 
-
+for (let i = 0; i < 5; ++i) {
+    console.log(messages[i])
+}
 
